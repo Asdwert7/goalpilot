@@ -1,0 +1,23 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+TestResults/
+# Gradle / Android
+.gradle/
+build/
+local.properties
+*.apk
+*.aab
+*.iml
+captures/
+.cxx/
+# IDE
+.idea/
+.vscode/
+# OS
+.DS_Store
+# Secrets
+.env
